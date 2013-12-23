@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_a710eaa9",
+        "filename": "res/values-sk/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 8308
+      },
+      "writtenOn": "2013-12-23T19:29:50Z",
+      "side": 1,
+      "message": "Remove all comment and a whiteline please",
+      "revId": "e1ebaf0540b84b69dd0efb98621402f43dcf26ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
