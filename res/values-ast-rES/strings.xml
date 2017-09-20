@@ -18,7 +18,5 @@
   <!-- Name of this application. [CHAR LIMIT=NONE] -->
   <string name="sms_app_name">Receutor cenciellu de mensaxes</string>
   <!-- Dialog title. [CHAR LIMIT=NONE] -->
-  <string name="sms_message_from_format">Mensaxe de <xliff:g id="userName">%1$s</xliff:g></string>
   <!-- Name of the done button on dialog. [CHAR LIMIT=NONE] -->
-  <string name="sms_done_button">Fecho</string>
 </resources>
