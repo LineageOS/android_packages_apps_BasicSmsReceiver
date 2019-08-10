@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Name of this application. [CHAR LIMIT=NONE] -->
-  <!-- Dialog title. [CHAR LIMIT=NONE] -->
-  <!-- Name of the done button on dialog. [CHAR LIMIT=NONE] -->
+    <string name="sms_app_name">Derbynnydd negeseuon syml</string>
+    <string name="sms_message_from_format">Neges oddi wrth <xliff:g id="userName">%1$s</xliff:g></string>
+    <string name="sms_done_button">Iawn</string>
 </resources>
